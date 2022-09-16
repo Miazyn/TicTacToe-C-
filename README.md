@@ -9,4 +9,6 @@ Wie spielt man:
 4. Enter um zu malen.
 5. Neustarten -> Reboot Datei.
 
+![grafik](https://user-images.githubusercontent.com/94353989/190652722-23411f3e-4ab3-4927-902f-0850327c3e12.png)
+
 Viel Spaß.

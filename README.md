@@ -1,4 +1,4 @@
-# TicTacToe-C-
+# TicTacToe-C++
 Kleines TicTacToe in c++
 
 Wie spielt man:
